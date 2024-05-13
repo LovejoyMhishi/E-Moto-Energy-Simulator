@@ -15,7 +15,7 @@ To use this software, you should have Python 3.0 installed on your system. Follo
 
 # Usage
 - Ensure you have the necessary Python libraries installed (pandas, numpy, matplotlib, geopy, scipy).
-- Run the code in IntelliJ.
-- Input your GPS data in the provided format.
+- Place your CSV data file in your project directory.
 - Ensure your GPS data has the same format as the CSV files provided in the repository.
+- Run the code in IntelliJ.
 - The software will calculate the power and energy requirements of your electric motorcycle for the trip with the given GPS data.
