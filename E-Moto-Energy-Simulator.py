@@ -20,7 +20,7 @@ power_efficiency = 0.85
 regenerative_efficiency = 0.50
 
 # Upload your data File
-data = pd.read_csv('../venv/Unit1_5.csv')
+data = pd.read_csv('venv/Unit1_5.csv')
 
 # Convert speed from km/h to m/s
 data['Speed'] = data['Speed'] * 1000 / 3600
